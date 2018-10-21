@@ -5,3 +5,8 @@ _bookdown_files
 .DS_Store
 *.rds
 .Rapp.history
+*.log
+*.pdf
+*.tex
+*.md
+docs/
